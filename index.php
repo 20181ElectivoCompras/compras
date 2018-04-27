@@ -1,9 +1,12 @@
 <h1>COMPRAS</h1>
-<?php
+<?php include('index.php'); ?>
+<head> 
+<title> Compras >> Grupo 1 </title>
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+<?php include("head.php"); ?>
+<?php include("body.php"); ?>
+<?php include("footer.php"); ?>
+
+</head>
+
 
